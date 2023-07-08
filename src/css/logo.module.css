@@ -1,0 +1,13 @@
+.logoContainer {
+  border: solid black;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 70px;
+}
+
+.logo {
+  font-size: 3em;
+  margin: 0;
+}
