@@ -1,9 +1,8 @@
 .guestbookContainer {
   text-align: center;
-  margin-left: 10px;
+  margin-left: 30px;
   margin-right: 10px;
-  border: solid black;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 10px;
   height: 70px;
 }

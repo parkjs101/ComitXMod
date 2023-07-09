@@ -1,0 +1,12 @@
+.boxContainer{
+  display: flex;
+  overflow-x: scroll;
+  text-align: center;
+  margin: 100px 10px 10px 10px;
+  border: solid black;
+  height: 250px;
+}
+
+.boxContainer::-webkit-scrollbar{
+  display: none;
+}

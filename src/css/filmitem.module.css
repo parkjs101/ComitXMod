@@ -1,0 +1,10 @@
+.filmItem{
+	background-color: blue;
+	position: relative;
+	top: 35px;
+	left: 6px;
+	border: solid red;
+	width: 96.5%;
+	height: 70%;
+	flex-shrink: 0;
+}

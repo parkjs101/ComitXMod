@@ -1,0 +1,9 @@
+.filmBackground{
+	background-image: url('/public/assets/images/film.png');
+	background-size: 320px 250px;
+	text-align: center;
+	flex-basis: 240px;
+	flex-shrink: 0;
+	margin: 0px;
+	border: 0;
+}

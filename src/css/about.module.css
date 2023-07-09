@@ -1,12 +1,7 @@
 .contactContainer {
   margin-left: 30px;
   margin-right: 10px;
-  border: solid black;
-  text-align: center;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 10px;
   height: 70px;
-}
-
-.font {
 }

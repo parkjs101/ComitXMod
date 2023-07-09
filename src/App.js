@@ -1,9 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
 import TopHeaderBar from './component/TopHeaderBar';
+import FilmSection from './component/FilmSection';
 
 function App() {
-  return <TopHeaderBar></TopHeaderBar>;
+  return (
+    <div className='Home'>
+      <TopHeaderBar>
+      </TopHeaderBar>
+      <FilmSection>
+      </FilmSection>
+    </div>
+    )
 }
 
 export default App;

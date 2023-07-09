@@ -1,5 +1,4 @@
 .logoContainer {
-  border: solid black;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
@@ -8,6 +7,7 @@
 }
 
 .logo {
+  font-weight: lighter;
   font-size: 3em;
   margin: 0;
 }
