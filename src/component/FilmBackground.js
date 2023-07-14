@@ -2,10 +2,10 @@ import React from 'react'
 import FilmItem from './FilmItem'
 import classes from "../css/filmbackground.module.css"
 
-function FilmBackground() {
+function FilmBackground(props) {
 	return (
 		<div className={classes.filmBackground}>
-			<FilmItem />
+			<FilmItem index={props.index}/>
 		</div>
 	)
 }

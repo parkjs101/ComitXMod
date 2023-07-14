@@ -1,14 +1,14 @@
 import './App.css';
 import TopHeaderBar from './component/TopHeaderBar';
-import FilmSection from './component/FilmSection';
+import FilmContainer from './component/FilmContainer';
 
 function App() {
   return (
     <div className='Home'>
       <TopHeaderBar>
       </TopHeaderBar>
-      <FilmSection>
-      </FilmSection>
+      <FilmContainer>
+      </FilmContainer>
     </div>
     )
 }
